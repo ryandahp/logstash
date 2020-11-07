@@ -1,0 +1,4 @@
+- pipeline.id: gateway
+  path.config: "config/gateway.conf"
+- pipeline.id: globs
+  path.config: "config/globs.conf"
